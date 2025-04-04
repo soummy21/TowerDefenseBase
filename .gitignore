@@ -1,0 +1,25 @@
+# Ignore build files and executables
+Release/
+Debug/
+External/
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+
+# Ignore Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.ipch
+
+# Ignore CMake build files (if using CMake)
+CMakeCache.txt
+CMakeFiles/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
