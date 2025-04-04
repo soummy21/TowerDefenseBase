@@ -2,6 +2,9 @@
 *A foundational tower defense game built with SFML*
 
 ---
+## 🎮 Project Overview
+TowerDefenseBase is a base framework for developing a fully functional tower defense game. The system includes core mechanics such as enemy pathfinding, a tile-based level editor, and a custom AABB collision system that supports both circles and rectangles.
+---
 
 ## 🛠️ Installation & Running the Game
 
@@ -25,9 +28,6 @@
   - Use tile type **"P"** to define the Path
 
 ---
-
-## 🎮 Project Overview
-TowerDefenseBase is a base framework for developing a fully functional tower defense game. The system includes core mechanics such as enemy pathfinding, a tile-based level editor, and a custom AABB collision system that supports both circles and rectangles.
 
 ## ⚙️ Core Features and Systems
 This project is designed to be modular and extendable, allowing additional mechanics like tower placement and upgrades to be built on top of the existing framework.
