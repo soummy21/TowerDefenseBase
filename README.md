@@ -3,6 +3,29 @@
 
 ---
 
+## 🛠️ Installation & Running the Game
+
+### 🔹 Download & Play
+1. Go to the **[Releases](https://github.com/yourrepo/TowerDefenseBase/releases)** page.
+2. Download the latest **TowerDefenseBase.zip** file.
+3. Extract the ZIP folder.
+4. Double-click `TowerDefenseBase.exe` to run the game.
+
+💡 **Note:** Windows might display a warning about an unknown publisher. Click **More Info → Run Anyway** to proceed.
+
+---
+
+## 🧪 How to Use
+- Press **T** to toggle between *Play Mode* and *Level Editor*.
+- Use the **Mouse Scroll Wheel** to switch between tile options.
+- **Left-click** to place a tile and **Right-click** to delete a tile.
+- To define enemy paths:
+  - Use tile type **"S"** for Start
+  - Use tile type **"E"** for End
+  - Use tile type **"P"** to define the Path
+
+---
+
 ## 🎮 Project Overview
 TowerDefenseBase is a base framework for developing a fully functional tower defense game. The system includes core mechanics such as enemy pathfinding, a tile-based level editor, and a custom AABB collision system that supports both circles and rectangles.
 
@@ -30,17 +53,6 @@ This project is designed to be modular and extendable, allowing additional mecha
 
 ---
 
-## 🛠️ Installation & Running the Game
-
-### 🔹 Download & Play
-1. Go to the **[Releases](https://github.com/yourrepo/TowerDefenseBase/releases)** page.
-2. Download the latest **TowerDefenseBase.zip** file.
-3. Extract the ZIP folder.
-4. Double-click `TowerDefenseBase.exe` to run the game.
-
-💡 **Note:** Windows might display a warning about an unknown publisher. Click **More Info → Run Anyway** to proceed.
-
----
 
 ## 🖥️ Building from Source
 If you want to modify or expand the game, you can compile it from source.
