@@ -5,9 +5,6 @@
 ## 🎮 Project Overview
 TowerDefenseBase is a base framework for developing a fully functional tower defense game. The system includes core mechanics such as enemy pathfinding, a tile-based level editor, and a custom AABB collision system that supports both circles and rectangles.
 
-![Enemy Pathfinding Demo](Gifs/AIMovement.gif)
-
-![TileMap Editor](Gifs/LevelCreation.gif)
 
 
 ## 🛠️ Installation & Running the Game
@@ -30,6 +27,8 @@ TowerDefenseBase is a base framework for developing a fully functional tower def
   - Use tile type **"S"** for Start
   - Use tile type **"E"** for End
   - Use tile type **"P"** to define the Path
+
+![TileMap Editor](Gifs/LevelCreation.gif)
 
 ---
 
@@ -54,6 +53,8 @@ This project is designed to be modular and extendable, allowing additional mecha
 - Enemies spawn in waves and follow pathfinding rules.
 - Movement logic ensures smooth transitions between path nodes.
 - Integrates with the collision system for future combat mechanics.
+
+![Enemy Pathfinding Demo](Gifs/AIMovement.gif)
 
 ---
 
